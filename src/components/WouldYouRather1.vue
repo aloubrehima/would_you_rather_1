@@ -17,7 +17,7 @@ export default {
   props: {
     question: String,
     answer1: String,
-    answer2: String,
+    answer2: String ,
   },
   data() {
     return {

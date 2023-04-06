@@ -44,7 +44,7 @@ export default {
 <style>
 
 body {
-  background: gray;
+  background: gray ;
 }
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
